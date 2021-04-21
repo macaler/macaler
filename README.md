@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a former physics instructor who is looking to transition to data science and data analytics. I’m currently learning Python for data science with Codecademy. I'm almost done with the Data Science path!
+I am a former physics instructor who is looking to transition to data science and data analytics. I’m currently learning Python for data science with Codecademy. I recently completed Codecademy's Data Science and Data Analysis Career Paths and I am eager to put what I learned into practice!
 
-I'm working on lots of things at the moment! My main projects are Codecademy Pro capstone projects as I work toward my completion of their Data Science path. But I am also working on a toy supervised machine learning project, and a couple of Kaggle datasets as well. Feel free to look through my repositories to see what all I have done!
+I'm working on lots of things at the moment! My main project is a Codecademy Pro natural language processing portfolio project. But I am also working on a couple of Kaggle datasets as well. Feel free to look through my repositories to see what all I have done!
 
 Check out my starred repositories below; those are my highlighted projects.
 
