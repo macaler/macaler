@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a former physics instructor who is looking to transition to data science and data analytics. I recently completed Codecademy's Data Science and Data Analysis Career Paths and I am eager to put what I learned into practice!
+I am a former physics instructor who is looking to transition to data science and data analytics.
 
 My main language is Python, although I spent about a decade doing IDL coding for my research. I'm familiar with Pandas, Matplotlib, Seaborn, NumPy, SciPy, Scikit-Learn, NLTK, and am learning TensorFlow and Keras. I am also familiar with SQL and the basics of maintaining a GitHub repository. 
 
