@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am a former physics instructor who is looking to transition to data science and data analytics. I completed Codecademy's Data Scientist and Data Analyst Career paths in 2021 and am eager to put what I learned into practice!
+I am a former physics instructor who is looking to transition to data science / data analytics. I completed Codecademy's Data Scientist and Data Analyst Career paths in 2021 and am eager to put what I learned into practice!
 
-My main language is Python, although I spent about a decade doing IDL coding for my research. I'm familiar with Pandas, Matplotlib, Seaborn, NumPy, SciPy, Scikit-Learn, NLTK, and am learning TensorFlow and Keras. I am also familiar with SQL and the basics of maintaining a GitHub repository. 
+My main language is Python, although I spent about a decade doing IDL coding for my research. I'm familiar with Pandas, Matplotlib, plot.ly, Seaborn, NumPy, SciPy, Scikit-Learn, NLTK, and am learning TensorFlow with Keras. I am also familiar with SQL and the basics of maintaining a GitHub repository. 
 
-I'm working on lots of things at the moment! My main focus is on completing the "Build Deep Learning Models with TensorFlow" skill path with Codecademy ... neural networks are so exciting and so powerful! I am also finishing up some loose ends from previous projects. Further down the pipeline are NLP and deep learning projects based on various Kaggle data sets. Feel free to look through my repositories to see what all I have done!
+I'm working on lots of things at the moment! My main focus is on completing the "Build Deep Learning Models with TensorFlow" skill path with Codecademy ... neural networks are s powerful and versatile! I am also finishing up some loose ends from previous projects. Further down the pipeline are NLP and deep learning projects based on various Kaggle data sets. Feel free to look through my repositories to see what all I have done!
 
 Check out my starred repositories below; those are my highlighted projects.
 
